@@ -123,9 +123,22 @@ li.right{ text-align: right;}
                  <li>.</li>
              @endif
          @else
+         <li  style=" text-align: right; color:white; font-weight: bolder; font-size: large;" class="nav-item">  
+           {{ Auth::user()->username }}
+          &nbsp;  &nbsp;  &nbsp;
+           
+      </li>
+       <li  style=" text-align: right;" >  
+        <form id="logout-form" action="{{ route('logout') }}" method="POST" >
+          @csrf
+            <a class="btn btn-outline-primary" href="{{ route('logout') }}">{{ __('logout') }}</a>
+      </form>
+        
+        
+      </li>
              <li class="nav-item dropdown">
                  <a id="navbarDropdown" class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-pre>
-                     {{ Auth::user()->name }}
+                  
                  </a>
 
                  <div class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
