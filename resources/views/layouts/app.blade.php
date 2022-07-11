@@ -23,6 +23,10 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <style>
 li.right{ text-align: right;}
+.card-header{ background-color: lightblue;
+                color:black;
+                font-weight: bolder;
+}
 </style>
 </head>
 <body>
