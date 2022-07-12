@@ -1,0 +1,29 @@
+[33mcommit 62b4430609e93b27214f49c8b8c95c6d960769a4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mNphpLogInApp1/master[m[33m)[m
+Author: fordliff <fordliff@gmail.com>
+Date:   Mon Jul 11 22:48:29 2022 +0000
+
+    After creating the logout form and controller
+
+[33mcommit 9e27f483ba26c75f1e3c81659cb4039c5dfbfbd6[m
+Author: fordliff <fordliff@gmail.com>
+Date:   Mon Jul 11 21:13:51 2022 +0000
+
+    After adding card colors
+
+[33mcommit 550e2529d19936ae04b512c4311e65a9098f6d31[m
+Author: fordliff <fordliff@gmail.com>
+Date:   Mon Jul 11 20:45:20 2022 +0000
+
+    After making changes to the layout and welcome page
+
+[33mcommit 86f76c23802f04c00e9f9b3384044f5550c388dd[m
+Author: fordliff <fordliff@gmail.com>
+Date:   Mon Jul 11 20:37:24 2022 +0000
+
+    After adding Bootstrap --auth
+
+[33mcommit 3a7d06ca37d173959b7d80a38dfb7803364b4264[m
+Author: fordliff <fordliff@gmail.com>
+Date:   Mon Jul 11 20:20:56 2022 +0000
+
+    After starting
